@@ -1,0 +1,17 @@
+# container registry data
+cr:
+  user: 'zeno15'
+
+#api data
+api:
+  name: 'finance-api'
+  image:
+    name: 'zeno-finance-api'
+    tag:
+      stable: 'latest'
+      latest: 'sjkhdfsjndsafjnhsadasd'
+  port: 443
+
+#bff web data
+bff-web:
+  name: 'finance-bff-web'

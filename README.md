@@ -1,2 +1,3 @@
-# cicd
-Cicd utilities
+# CICD
+
+Miscellaneous scripts for cicd
